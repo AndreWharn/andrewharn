@@ -1,0 +1,160 @@
+-----GRAPHICS------
+
+Animals overworlds by TheLordOfGames.
+
+Chickens, roosters from Castle Town by
+AndreWharn, inspired by Toby Fox's duck/bird from UNDERTALE.
+
+Kris sprites made by AndreWharn,
+grillby's sprites by Luxandre and
+AndreWharn, battle sprites made by
+JakeHorror, face sprites made by
+kendotlibero (on The Spriters
+Resource).
+
+Languages sprites by AndreWharn.
+
+Wharn overworld sprites made by
+AndreWharn, faces sprites made by Graphisk.
+
+DELTATALE logo and icon and Skycraft Team
+logo made by AYGoftenover, blue background,
+shadows and 3D effects made by AndreWharn.
+
+Tilesets, fogs, autotilesets and paronamas
+made by AndreWharn, Hometown's letters, crates,
+boxes, present and grass block made by Skeddles
+(on DeviantArt).
+
+"Welcome To The CITY"'s tilesets/map idea
+made/recreated by AndreWharn.
+
+------MUSICS------
+
+The Story: Made by AndreWharn using Firedemon72's
+FLP (on YouTube).
+
+Adventures Between Universes: Made by Seabvee
+(on SoundCloud).
+
+I Have To Do It: Made by Fazy (on SoundCloud).
+
+Fate Under Stars (new/old): Original songs
+made by Freedom House (Saia Hyouseki) called
+"Theme01" (old) and "Theme05" (new), remixed by AndreWharn.
+
+A Light In Darkness: Original song made by Freedom House
+(Saia Hyouseki) called "pandem04", remixed by AndreWharn.
+
+------SCRIPTS--------
+
+Graphic Cache Tester, Message Text from Files,
+Immense Events, Screen Shake Extended,
+Centi-Second Wait Count, Lily's Librams,
+Events Always Under, Splash and Menu
+scripts made by DerVVulfman.
+
+Additional Bitmap Methods script made by
+Untra and Glitchfinder.
+
+XP Wave Effect script made by zecomeia.
+
+Character Transition script made by Rataime
+and ImageMagick.
+
+Light Effects, Anti Event Lag Script, Modules.
+Keyboard Input scripts made by Near Fantastica.
+
+Cursor script made by Selwyn, edited by
+AndreWharn and DerVVulfman.
+
+Localization, Screen Module scripts made by
+ForeverZer0.
+
+Modular Passable, Modular Collision
+Optimizer, Move Straight, Circular Sprite
+Motion, Rotate, Zoom, Pendulum, Advanced
+Camera System, Debug FPS Increase, Movement
+Enhancements scripts made by Heretic.
+
+Longer Script Call, Stop All Movement,
+Scene Pause, Smooth Scroller, Rotate Character,
+Flip Animation, Flip Character scripts made
+by LiTTleDRAgo.
+
+RPG Module, Scene Base, Title Skip, MP Common,
+Ruby Expansion scripts made by MoonPearl.
+
+Scene Completation script made by AcedentProne.
+
+Scene Jukebox script made by "Ziel van Brand"
+(I think), edited by AndreWharn.
+
+Achievements System, Terrain Step Sound
+scripts made by game_guy.
+
+Scene Gallery script made by Syvkal.
+
+Wrap Map script made by Dirtie.
+
+Map Tileset Changer script made by Narzew.
+
+Memorize Location script made by dubalex.
+
+Locking Pictures, scripts made by KK20.
+
+Picture Text Command script made by gerkrt/
+gerrtunk.
+
+Advanced Weather System and Universal Message
+System scripts made by Ccoa, edited by
+AndreWharn.
+
+Display Animations script made by Trickster.
+
+Advanced Map Scroll script made by JayRay.
+
+Transition Pack script made by Fantasist.
+
+Call Event script made by RM2K.
+
+Tons of Add-ons's custom commands, Database
+Reloader made by Blizzard, fixed by KK2.
+
+Old gameover scene, old splash scene, warning
+scene, modified main scripts made by AndreWharn.
+
+-----SYSTEM AND GENERAL GAME-----
+
+UNDERTALE/Deltarune made by Toby Fox
+and Temmie Chang, their musics/graphics/
+sound effects/fonts/characters/story
+etc. are owned by them.
+
+RPG Maker XP made by Enterbrain.
+
+DELTATALE made by AndreWharn.
+
+System, graphics, musics, sound effects etc.
+that I didn't mentioned there was made the
+owner of DELTATALE (AndreWharn) or they are
+ripped from UNDERTALE/Deltarune, then by
+Toby Fox or/and Temmie Chang or they are
+from RPG Maker XP, then made by Enterbrain.
+
+Italian and english translations made by
+AndreWharn, with the help of PixelBit.
+
+Launcher.exe made by ??? (i'm sorry but i
+don't remember, if someone knows, i'll put
+the name) edited by AndreWharn.
+
+Thanks for everyone who has supported this
+project, this is only the first demo and I
+hope it will continue.
+
+More demos will be available in future,
+until the fangame will be completed.
+
+And also thank to you, PLAYER, that
+decided to try this demo of DELTATALE.
